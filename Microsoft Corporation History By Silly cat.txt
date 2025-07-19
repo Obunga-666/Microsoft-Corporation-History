@@ -1,0 +1,89 @@
+Microsoft Corporation: A Complete History
+
+Microsoft Corporation is an American multinational technology company that has shaped personal computing, productivity software, gaming, and cloud services since its founding in 1975.
+
+---
+
+1975–1985: Founding and Early Growth
+
+Microsoft began as “Micro-soft,” a portmanteau of microcomputer and software, when Bill Gates and Paul Allen adapted BASIC for the Altair 8800 and licensed it to MITS in Albuquerque, New Mexico.
+
+- April 4, 1975: Company founded by Gates (then Harvard student) and Allen (Honeywell programmer)  
+- November 26, 1976: Registered as Micro-Soft with New Mexico’s Secretary of State  
+- January 1, 1979: Headquarters moved to Bellevue, Washington, to attract talent  
+
+During this period, Microsoft focused on programming languages (BASIC, FORTRAN, COBOL) for CP/M and other early microcomputers, reaching $1 million in annual revenue by 1978.
+
+---
+
+1980s: IBM Partnership, MS-DOS, and Windows
+
+In 1980, Microsoft struck a landmark deal to provide the operating system for IBM’s first PC, purchasing and adapting 86-DOS (renamed MS-DOS), then retaining rights to sell it to other manufacturers.
+
+- 1981: MS-DOS released with IBM PC; Microsoft incorporated in Washington  
+- 1983: First hardware product, the Z-80 SoftCard, enables Apple II to run CP/M  
+- November 1983: Launch of Microsoft Word (originally “Multi-Tool Word”)  
+- November 20, 1985: First version of Windows announced, introducing a graphical user interface  
+
+By the late 1980s, MS-DOS and Windows had secured Microsoft’s dominance in PC operating systems, with Windows 3.0 (1990) capturing over 90% market share.
+
+---
+
+1990–2000: Expansion, Antitrust, and the Internet
+
+Microsoft deepened its product lineup with Office (1989), Internet Explorer (bundled with Windows 95), and Xbox (announced 2000). The company’s growth triggered regulatory scrutiny:
+
+- 1995: Windows 95 launches, fully integrating MS-DOS and GUI  
+- 1998: U.S. Department of Justice files antitrust suit, accusing Microsoft of unfair bundling practices  
+- 2000: Bill Gates steps down as CEO; Steve Ballmer succeeds him; Microsoft reports annual net income above $2 billion for the first time  
+
+Despite legal challenges, Microsoft’s earnings soared during the dot-com boom, and its Windows/Office franchise remained highly profitable.
+
+---
+
+2000–2014: Diversification and New Leadership
+
+Under Steve Ballmer, Microsoft diversified into cloud computing, entertainment, and mobile hardware:
+
+- 2001: Windows XP released internationally  
+- 2005: Launch of Xbox 360 gaming console  
+- 2008–2010: Introduction of Azure cloud platform and Office 365 subscription model  
+- 2012: Release of Surface tablets, marking Microsoft’s entry into PC hardware  
+- 2013: Acquisition of Nokia’s mobile phone business to bolster Windows Phone efforts  
+
+By 2014, Microsoft had become a leader in enterprise software and cloud services but struggled in mobile operating systems.
+
+---
+
+2014–Present: The Nadella Era, Cloud, and AI
+
+Satya Nadella succeeded Steve Ballmer as CEO in February 2014 and steered Microsoft toward cloud-first, mobile-first strategies:
+
+- 2016: Acquisition of LinkedIn for $26.2 billion  
+- 2018: Purchase of GitHub, enhancing Microsoft’s appeal to developers  
+- 2020: Microsoft Teams surpasses 115 million daily active users amid the COVID-19 shift  
+- 2021–2024: Major AI investments, including partnerships with OpenAI, integration of AI into Microsoft 365 (Copilot), and expansion of Azure AI services  
+
+Today, Microsoft operates three core business segments—Productivity and Business Processes, Intelligent Cloud, and More Personal Computing—and maintains research labs worldwide to drive innovation in AI, mixed reality, and quantum computing.
+
+---
+
+Major Milestones at a Glance
+
+| Year | Milestone                                                                               |
+|------|-----------------------------------------------------------------------------------------|
+| 1975 | Founded by Gates & Allen; Altair BASIC deal                                            |
+| 1981 | MS-DOS debuts with IBM PC; Microsoft incorporated                                       |
+| 1989 | Microsoft Office launched                                                               |
+| 1995 | Windows 95 released; Internet Explorer debut                                            |
+| 1998 | Antitrust case filed by U.S. Department of Justice                                      |
+| 2001 | Windows XP and Xbox launch                                                               |
+| 2010 | Azure cloud platform introduced                                                         |
+| 2014 | Satya Nadella named CEO                                                                  |
+| 2016 | LinkedIn acquisition                                                                     |
+| 2018 | GitHub acquisition                                                                       |
+| 2021 | Microsoft Copilot (AI assistant) integrated into Microsoft 365                           |
+
+---
+
+Microsoft’s journey from a two-person software partnership to a trillion-dollar technology leader reflects a combination of technical innovation, aggressive business tactics, and strategic pivots. Its continued focus on cloud infrastructure and AI positions the company at the forefront of the next computing revolution.
