@@ -1,6 +1,6 @@
 # Microsoft Corporation History
 
-# Microsoft Corporation  
+Microsoft Corporation  
 ### *From Garage Startup to Global Tech Titan*
 
 ---
